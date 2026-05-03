@@ -1,1 +1,1 @@
-# exam-simulator
+# CZ realii exam-simulator
